@@ -1,3 +1,4 @@
+#"The volume of a sphere with radius r is given by the formula (4/3)πr³. What is the volume of a sphere with radius 6?"
 #1
 import math
 
