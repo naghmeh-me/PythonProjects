@@ -1,3 +1,5 @@
+#"Write a program that takes a two-digit integer as input and outputs the number obtained by reversing its digits."
+
 #1
 number=int(input("enter a two digit number:"))
 
