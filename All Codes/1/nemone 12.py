@@ -1,3 +1,5 @@
+#"Suppose the price of one copy of a book is $24.75, and the bookstore buys it at a 41% discount. The shipping cost for one copy is $5, and the shipping cost for each additional copy is 62 cents. What is the total cost of selling 80 copies?"
+
 #1
 price=float(input("enter the price of the book:"))
 
